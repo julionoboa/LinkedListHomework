@@ -1,0 +1,14 @@
+C:\Users\julio\source\repos\LinkedListEstructuraDeDatos\LinkedListEstructuraDeDatos\bin\Debug\net8.0\LinkedListEstructuraDeDatos.exe
+C:\Users\julio\source\repos\LinkedListEstructuraDeDatos\LinkedListEstructuraDeDatos\bin\Debug\net8.0\LinkedListEstructuraDeDatos.deps.json
+C:\Users\julio\source\repos\LinkedListEstructuraDeDatos\LinkedListEstructuraDeDatos\bin\Debug\net8.0\LinkedListEstructuraDeDatos.runtimeconfig.json
+C:\Users\julio\source\repos\LinkedListEstructuraDeDatos\LinkedListEstructuraDeDatos\bin\Debug\net8.0\LinkedListEstructuraDeDatos.dll
+C:\Users\julio\source\repos\LinkedListEstructuraDeDatos\LinkedListEstructuraDeDatos\bin\Debug\net8.0\LinkedListEstructuraDeDatos.pdb
+C:\Users\julio\source\repos\LinkedListEstructuraDeDatos\LinkedListEstructuraDeDatos\obj\Debug\net8.0\LinkedListEstructuraDeDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio\source\repos\LinkedListEstructuraDeDatos\LinkedListEstructuraDeDatos\obj\Debug\net8.0\LinkedListEstructuraDeDatos.AssemblyInfoInputs.cache
+C:\Users\julio\source\repos\LinkedListEstructuraDeDatos\LinkedListEstructuraDeDatos\obj\Debug\net8.0\LinkedListEstructuraDeDatos.AssemblyInfo.cs
+C:\Users\julio\source\repos\LinkedListEstructuraDeDatos\LinkedListEstructuraDeDatos\obj\Debug\net8.0\LinkedListEstructuraDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\julio\source\repos\LinkedListEstructuraDeDatos\LinkedListEstructuraDeDatos\obj\Debug\net8.0\LinkedListEstructuraDeDatos.dll
+C:\Users\julio\source\repos\LinkedListEstructuraDeDatos\LinkedListEstructuraDeDatos\obj\Debug\net8.0\refint\LinkedListEstructuraDeDatos.dll
+C:\Users\julio\source\repos\LinkedListEstructuraDeDatos\LinkedListEstructuraDeDatos\obj\Debug\net8.0\LinkedListEstructuraDeDatos.pdb
+C:\Users\julio\source\repos\LinkedListEstructuraDeDatos\LinkedListEstructuraDeDatos\obj\Debug\net8.0\LinkedListEstructuraDeDatos.genruntimeconfig.cache
+C:\Users\julio\source\repos\LinkedListEstructuraDeDatos\LinkedListEstructuraDeDatos\obj\Debug\net8.0\ref\LinkedListEstructuraDeDatos.dll
