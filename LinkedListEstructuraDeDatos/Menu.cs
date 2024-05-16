@@ -99,20 +99,22 @@ namespace LinkedListEstructuraDeDatos
             }
         }
 
+        // Display a message and wait for a key press
         public void ShowMessage(string message)
         {
-            Console.WriteLine(message);
-            Console.ReadKey();
-            Console.Clear();
+            Console.WriteLine(message); 
+            Console.ReadKey(); 
+            Console.Clear(); 
         }
 
+        // Get the selected option from the user
         public int GetOption()
         {
-            int option;
-            while (true)
+            int option; // Variable to store the selected option
+            while (true) // Repeat until a valid option is entered
             {
-                Console.Write("Select an option (1-8): ");
-                if (int.TryParse(Console.ReadLine(), out option) && option >= 1 && option <= 8)
+                Console.Write("Select an option (1-8): "); // Prompt the user to select an option
+                if (int.TryParse(Console.ReadLine(), out option) && option >= 1 && option <= 8) // Try to parse the input as an integer and check if it is within the valid range
                 {
                     return option;
                 }
