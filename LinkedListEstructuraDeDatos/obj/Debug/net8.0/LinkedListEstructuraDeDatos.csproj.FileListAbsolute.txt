@@ -12,3 +12,4 @@ C:\Users\julio\source\repos\LinkedListEstructuraDeDatos\LinkedListEstructuraDeDa
 C:\Users\julio\source\repos\LinkedListEstructuraDeDatos\LinkedListEstructuraDeDatos\obj\Debug\net8.0\LinkedListEstructuraDeDatos.pdb
 C:\Users\julio\source\repos\LinkedListEstructuraDeDatos\LinkedListEstructuraDeDatos\obj\Debug\net8.0\LinkedListEstructuraDeDatos.genruntimeconfig.cache
 C:\Users\julio\source\repos\LinkedListEstructuraDeDatos\LinkedListEstructuraDeDatos\obj\Debug\net8.0\ref\LinkedListEstructuraDeDatos.dll
+C:\Users\julio\source\repos\LinkedListEstructuraDeDatos\LinkedListEstructuraDeDatos\obj\Debug\net8.0\LinkedListEstructuraDeDatos.sourcelink.json
